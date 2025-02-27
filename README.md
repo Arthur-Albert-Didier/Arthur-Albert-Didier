@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Arthur Didier!
+**`Indie Developer`** 
 <br />
 
-🎓**Análise e Desenvolvimento de Sistemas**  
-**Indie Developer** 
+## 🎓Análise e Desenvolvimento de Sistemas**  
+
 
 Building my version of the digital world one step at a time using technology.
 ---
