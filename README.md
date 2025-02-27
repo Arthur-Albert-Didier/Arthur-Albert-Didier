@@ -2,7 +2,7 @@
 **`Indie Developer`** 
 <br />
 
-## 🎓Análise e Desenvolvimento de Sistemas**  
+## 🎓Análise e Desenvolvimento de Sistemas ##
 
 
 Building my version of the digital world one step at a time using technology.
